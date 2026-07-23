@@ -1,4 +1,4 @@
-// Service worker de Mora Calidad — v2
+// Service worker de Mora Calidad — v3
 // Cambios respecto a v1:
 //  - Precachea TODOS los archivos propios (portada, manifest e iconos), no solo './'.
 //    Asi la app instalada arranca entera aunque no haya red.
